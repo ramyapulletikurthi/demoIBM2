@@ -1,1 +1,2 @@
-This is second git file
+This is second git file.
+This is the extra changes.
